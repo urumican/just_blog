@@ -12,4 +12,4 @@ class DevConfig(Config):
 	DEBUG = True
 
 	# MySQL connection
-	SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:fanguiju@127.0.0.1:3306/jmilkfansblog'
+	SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:50700991@127.0.0.1:3306/myblog'
